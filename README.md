@@ -40,8 +40,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-b-silva/)  
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:denis9195@hotmail.com)  
-
-
----
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=yDenBarbosa&theme=default)](https://open.spotify.com/user/nii9zf1er0u93m2268k9tm3wu)
