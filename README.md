@@ -32,6 +32,7 @@
 ### 🚀 **Projetos Destacados**  
 
 - [**Web site**](https://github.com/yDenBarbosa/NexCent) - Nexcent é um site que desenvolvi a partir de um template no Figma.  
+- [**Web site**](https://github.com/yDenBarbosa/Ifinance) - Ifinance é um site que desenvolvi a partir de um template no Figma.  
 - [**Web site**](https://github.com/yDenBarbosa/Furniro) - Furniro é um site que estou desenvolvendo a partir de um template no Figma.   
 
 ---
